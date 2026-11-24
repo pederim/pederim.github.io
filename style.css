@@ -3,3 +3,5 @@
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,sans-serif}
 main{max-width:720px;margin:auto;padding:32px 16px}a{color:var(--acc)}h1{font-size:28px}h2{font-size:19px;margin-top:28px}
 small,.mut{color:var(--mut)}nav a{margin-right:16px}hr{border:0;border-top:1px solid #8884;margin:32px 0}
+
+.yt{border:1px solid #ddd;border-radius:8px;padding:10px 12px}.ytlogo{display:inline-block;background:#f00;color:#fff;border-radius:6px;padding:0 7px;font-size:13px;margin-right:4px}
